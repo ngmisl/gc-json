@@ -1,0 +1,12 @@
+{
+    "name": "Genesis City Mountain",
+    "description": "1x1 Land Plot in Genesis City",
+    "decimals": 18,
+    "external_url": "https://mintworld-1.gitbook.io/docs/fundamentals/roadmap/genesis-city-landsale",
+    "image": "https://gateway.lighthouse.storage/ipfs/QmQSdE348mi1aGwdT1CHnT81XJRALAbyzvfkkL2hgefYx3",
+    "attributes": [
+      { "trait_type": "Land", "value": "Mountain" },
+      { "value": "Genesis City" },
+      { "value": "Stakeable" }
+    ]
+  }
